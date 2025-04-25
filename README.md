@@ -83,4 +83,4 @@ Summarize what this website is about based on the following text. Then, rate how
 - Agencies automating client prospecting
 
 ---
-Made with 💡 by [Your Name]
+Made with 💡 by Abu Sufyan
